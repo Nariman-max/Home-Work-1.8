@@ -1,0 +1,82 @@
+.form{
+    background-color: red;
+    display: block;
+    width: 30px;
+    height: 30px;
+}
+#plgm1{
+    margin-left: 120px;
+    margin-top: 30px;
+}
+#plgm2{
+    margin-left: 150px;
+    margin-top: 0px;
+}
+#plgm3{
+    margin-left: 300px;
+    margin-top: -60px;
+}
+#plgm4{
+    margin-left: 270px;
+    margin-top: 0px;
+}
+#plgm5{
+    width: 210px;
+    margin-left: 120px;
+    margin-top: 0px;
+}
+#plgm6{
+    width: 60px;
+    margin-left: 90px;
+    margin-top: 0px;
+}
+#plgm7{
+    width: 90px;
+    margin-left: 180px;
+    margin-top: -30px;
+}
+#plgm8{
+    width: 60px;
+    margin-left: 300px;
+    margin-top: -30px;
+}
+#plgm9{
+    width: 330px;
+    margin-left: 60px;
+    margin-top: 0px;
+}
+#plgm10{
+    height: 60px;
+    margin-left: 60px;
+    margin-top: 0px;
+}
+#plgm11{
+    height: 60px;
+    margin-left: 120px;
+    margin-top: -60px;
+}
+#plgm12{
+    height: 60px;
+    margin-left: 300px;
+    margin-top: -60px;
+}
+#plgm13{
+    height: 60px;
+    margin-left: 360px;
+    margin-top: -60px;
+}
+#plgm14{
+    width: 150px;
+    margin-left: 150px;
+    margin-top: -60px;
+}
+#plgm15{
+    width: 60px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+#plgm16{
+    width: 60px;
+    margin-left: 240px;
+    margin-top: -30px;
+}
